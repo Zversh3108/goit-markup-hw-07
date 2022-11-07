@@ -3,14 +3,14 @@
 @import '../utils/is-hiden';
 @import '../utils/backdrop';
 
-@import './sass/componets/header';
+@import '../componets/header';
 @import '../componets/hero-section';
 @import '../componets/info-section';
 @import '../componets/about-section';
-@import './team-section';
+@import '../componets/team-section';
 @import '../componets/social-media';
 @import '../componets/clients-section';
-@import '/sass/componets/footer';
+@import '../componets/footer';
 @import '../componets/subscription';
 @import '../componets/filter';
 @import '../componets/portfolio-list';
